@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO | Cable Noticias HD" tvg-logo="http://l3d.us:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV | Colombia",CO | Cable Noticias HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176589
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO | Cablenoticias" tvg-logo="http://l3d.us:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV | Colombia",CO | Cablenoticias
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176609
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="CO | Cali TV" tvg-logo="http://l3d.us:8080/images/9c9511497691e9afac300f0cc4c33b3d.png" group-title="TV | Colombia",CO | Cali TV
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155733
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO | Canal Capital" tvg-logo="https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020d.png" group-title="TV | Colombia",CO | Canal Capital
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176610
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO | Canal Capital HD" tvg-logo="http://l3d.us:8080/images/7d48e98de7500514c52514b8fc0d554d.png" group-title="TV | Colombia",CO | Canal Capital HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155734
+#EXTINF:-1 tvg-id="" tvg-name="CO | Canal CNC Medellin " tvg-logo="http://l3d.us:8080/images/a2b953957a7d83123805fa100dca1187.png" group-title="TV | Colombia",CO | Canal CNC Medellin 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155737
+#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Institucional" tvg-logo="http://l3d.us:8080/images/e8758757a33349ac5eeadc749a8d7b68.png" group-title="TV | Colombia",CO | Canal Institucional
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176611
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | Canal Uno" tvg-logo="http://l3d.us:8080/images/0200abb799a26158456f814660ab30eb.png" group-title="TV | Colombia",CO | Canal Uno
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176612
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | Canal Uno HD" tvg-logo="http://l3d.us:8080/images/0200abb799a26158456f814660ab30eb.png" group-title="TV | Colombia",CO | Canal Uno HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202063
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol" tvg-logo="http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title="TV | Colombia",CO | Caracol
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176570
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol HD" tvg-logo="http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title="TV | Colombia",CO | Caracol HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176569
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO | Caracol HD2" tvg-logo="http://l3d.us:8080/images/5ebbec1b1e8fdef06022d1f7d8043baa.png" group-title="TV | Colombia",CO | Caracol HD2
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202067
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | Caracol Internacional" tvg-logo="https://forounivers.com/uploads/monthly_2019_09/large.315894729_CaracolInternacional.png.cddcd4252126adc5d815ac3104c4189a.png" group-title="TV | Colombia",CO | Caracol Internacional
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176613
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://l3d.us:8080/images/1913a79bfd6fefc616a1b4686b5d9bad.png" group-title="TV | Colombia",CO | Caracol Internacional HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202068
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Noticias" tvg-logo="http://l3d.us:8080/images/db83eb67c23b5623be99780ccb25a776.png" group-title="TV | Colombia",CO | Caracol Noticias
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202069
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO | CITY TV" tvg-logo="http://l3d.us:8080/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="TV | Colombia",CO | CITY TV
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176595
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO | City TV HD" tvg-logo="http://l3d.us:8080/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="TV | Colombia",CO | City TV HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176573
+#EXTINF:-1 tvg-id="eltiempo.co" tvg-name="CO | El Tiempo" tvg-logo="http://l3d.us:8080/images/2f52803f9173cae97fdea961f5b6f97d.png" group-title="TV | Colombia",CO | El Tiempo
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155738
+#EXTINF:-1 tvg-id="" tvg-name="CO | La Superestación" tvg-logo="http://l3d.us:8080/images/d0e27a375c7787dd99afbfba97195efc.png" group-title="TV | Colombia",CO | La Superestación
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/200455
+#EXTINF:-1 tvg-id="nuestratelenoticias24.co" tvg-name="CO | NTN24" tvg-logo="http://l3d.us:8080/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png" group-title="TV | Colombia",CO | NTN24
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176615
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name="CO | Pasiones " tvg-logo="http://l3d.us:8080/images/38bc8488fc45561873c70974a9da7612.png" group-title="TV | Colombia",CO | Pasiones 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176777
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name="CO | Pasiones HD" tvg-logo="http://l3d.us:8080/images/38bc8488fc45561873c70974a9da7612.png" group-title="TV | Colombia",CO | Pasiones HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155735
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155680
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN HD" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176580
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN Internacional HD" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN Internacional HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/199513
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas" tvg-logo="http://l3d.us:8080/images/f2694f07dae153ffa8ae64b9a512e227.png" group-title="TV | Colombia",CO | RCN Novelas
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176599
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas HD" tvg-logo="http://l3d.us:8080/images/f2694f07dae153ffa8ae64b9a512e227.png" group-title="TV | Colombia",CO | RCN Novelas HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155682
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO | Señal Colombia" tvg-logo="http://l3d.us:8080/images/9c9f4666edc99c7199cbb0293d5c0a42.png" group-title="TV | Colombia",CO | Señal Colombia
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176616
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO | Señal Colombia HD" tvg-logo="http://l3d.us:8080/images/9c9f4666edc99c7199cbb0293d5c0a42.png" group-title="TV | Colombia",CO | Señal Colombia HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155736
+#EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="CO | Suram TV" tvg-logo="https://i.imgur.com/m6RHhIn.png" group-title="TV | Colombia",CO | Suram TV
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176600
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO | TeleAntioquia" tvg-logo="http://l3d.us:8080/images/f9318418184f449baf2b148a3a6a6021.png" group-title="TV | Colombia",CO | TeleAntioquia
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176617
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO | TeleAntioquia HQ" tvg-logo="http://l3d.us:8080/images/f9318418184f449baf2b148a3a6a6021.png" group-title="TV | Colombia",CO | TeleAntioquia HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176582
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO | Telecafé" tvg-logo="http://l3d.us:8080/images/ec81118a6a63ee326e0f8d5760b72430.png" group-title="TV | Colombia",CO | Telecafé
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176618
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO | Telecafé HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="TV | Colombia",CO | Telecafé HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176602
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO | TeleCaribe" tvg-logo="http://l3d.us:8080/images/e02365308343ec301d5d1708731f0c2e.png" group-title="TV | Colombia",CO | TeleCaribe
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176619
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO | Telecaribe HD" tvg-logo="http://l3d.us:8080/images/e02365308343ec301d5d1708731f0c2e.png" group-title="TV | Colombia",CO | Telecaribe HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176583
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleEnvigado" tvg-logo="http://l3d.us:8080/images/aee0bb54883e7ba36f4d4ca4e5de9e58.png" group-title="TV | Colombia",CO | TeleEnvigado
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176603
+#EXTINF:-1 tvg-id="" tvg-name="CO | Teleislas" tvg-logo="http://l3d.us:8080/images/4d8a7c09a617b59156c6ec6924a7fd7e.png" group-title="TV | Colombia",CO | Teleislas
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202129
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO | Telemedellin" tvg-logo="http://l3d.us:8080/images/1b55a38b913dcf2212fabb5dfc5a297d.png" group-title="TV | Colombia",CO | Telemedellin
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176606
+#EXTINF:-1 tvg-id="aande.co" tvg-name="CO | Telemedellin HD" tvg-logo="http://l3d.us:8080/images/1b55a38b913dcf2212fabb5dfc5a297d.png" group-title="TV | Colombia",CO | Telemedellin HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202130
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO | Telepacifico" tvg-logo="http://l3d.us:8080/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="TV | Colombia",CO | Telepacifico
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176607
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO | TelePacifico HQ" tvg-logo="http://l3d.us:8080/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="TV | Colombia",CO | TelePacifico HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176620
+#EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Tro" tvg-logo="http://l3d.us:8080/images/14078df1b083aff8c5210720736237d0.PNG" group-title="TV | Colombia",CO | Tro
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176621
+#EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Tro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="TV | Colombia",CO | Tro HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202066
+#EXTINF:-1 tvg-id="" tvg-name="CO | TV AGRO" tvg-logo="http://l3d.us:8080/images/8ec86c0ea20efbc50a414f354259b00f.png" group-title="TV | Colombia",CO | TV AGRO
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176608
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports " tvg-logo="http://l3d.us:8080/images/dbe1ff0cad5c343a7cc474e37566f2f4.png" group-title="TV | Colombia",CO | Win Sports 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176585
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | Win Sports +" tvg-logo="http://l3d.us:8080/images/6c44c6af476026b6bba1b39fa2a11861.png" group-title="TV | Colombia",CO | Win Sports +
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155693
+#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports + HD" tvg-logo="http://l3d.us:8080/images/6c44c6af476026b6bba1b39fa2a11861.png" group-title="TV | Colombia",CO | Win Sports + HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/12257
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports HD" tvg-logo="http://l3d.us:8080/images/dbe1ff0cad5c343a7cc474e37566f2f4.png" group-title="TV | Colombia",CO | Win Sports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/176587
+#EXTINF:-1 tvg-id="" tvg-name="COL | Cali TV" tvg-logo="data:image/jpeg;base64,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" group-title="TV | Cultura",COL | Cali TV
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/217129
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="D| Adrenalina Sports" tvg-logo="http://l3d.us:8080/images/52b985145ae9fbd61c101003af8a1a81.png" group-title="TV | Deportes",D| Adrenalina Sports
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10960
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="D| Adrenalina Sports HQ" tvg-logo="http://l3d.us:8080/images/52b985145ae9fbd61c101003af8a1a81.png" group-title="TV | Deportes",D| Adrenalina Sports HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/197768
+#EXTINF:-1 tvg-id="" tvg-name="D| Afizzionados " tvg-logo="http://l3d.us:8080/images/78f0d7947217659b7951a851af919bc0.png" group-title="TV | Deportes",D| Afizzionados 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10914
+#EXTINF:-1 tvg-id="" tvg-name="D| Afizzionados HD" tvg-logo="http://l3d.us:8080/images/78f0d7947217659b7951a851af919bc0.png" group-title="TV | Deportes",D| Afizzionados HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202591
+#EXTINF:-1 tvg-id="" tvg-name="D| AyM Sports" tvg-logo="http://l3d.us:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="TV | Deportes",D| AyM Sports
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155249
+#EXTINF:-1 tvg-id="" tvg-name="D| AyM Sports HQ" tvg-logo="http://l3d.us:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="TV | Deportes",D| AyM Sports HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155625
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="D| Barca TV | España HQ" tvg-logo="http://l3d.us:8080/images/40f5143a42bf4f1bdf77664a7be4a59e.png" group-title="TV | Deportes",D| Barca TV | España HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10930
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español " tvg-logo="http://l3d.us:8080/images/c5b713bdefdf2a6f04858b46c5407187.png" group-title="TV | Deportes",D| beIN Sports en Español 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/157370
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español  HD" tvg-logo="http://l3d.us:8080/images/c5b713bdefdf2a6f04858b46c5407187.png" group-title="TV | Deportes",D| beIN Sports en Español  HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/167174
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca " tvg-logo="http://l3d.us:8080/images/0c224f69a64dd03a066d9004dbc6e5c0.png" group-title="TV | Deportes",D| Caza y pesca 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158478
+#EXTINF:-1 tvg-id="" tvg-name="D| CDO Basico" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="TV | Deportes",D| CDO Basico
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10932
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://l3d.us:8080/images/882ea6a9d42bd211a66d7e6947ff30e7.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10924
+#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="D| Claro Sports Latinoamerica HD" tvg-logo="http://l3d.us:8080/images/882ea6a9d42bd211a66d7e6947ff30e7.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202070
+#EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="D| DIRECTV SPORTS" tvg-logo="http://l3d.us:8080/images/bc91e814605b0b01f57abb4d941536b8.png" group-title="TV | Deportes",D| DIRECTV SPORTS
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202157
+#EXTINF:-1 tvg-id="" tvg-name="D| DIRECTV SPORTS +" tvg-logo="http://l3d.us:8080/images/bc91e814605b0b01f57abb4d941536b8.png" group-title="TV | Deportes",D| DIRECTV SPORTS +
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/203186
+#EXTINF:-1 tvg-id="" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="http://l3d.us:8080/images/bc91e814605b0b01f57abb4d941536b8.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/203187
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | ARG
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181346
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181332
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | COL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181350
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL HD" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | COL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202084
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10939
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV | Deportes",D| Espn 2 | MX HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155473
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://l3d.us:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="TV | Deportes",D| Espn 3 | ARG
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181348
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 3 | COL" tvg-logo="http://l3d.us:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="TV | Deportes",D| Espn 3 | COL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181352
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="TV | Deportes",D| Espn 3 | COL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202088
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX" tvg-logo="http://l3d.us:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="TV | Deportes",D| Espn 3 | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10941
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="http://l3d.us:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="TV | Deportes",D| Espn 3 | MX HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155474
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="D| Espn Deportes" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202473
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="D| Espn Deportes | HD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes | HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158472
+#EXTINF:-1 tvg-id="espnplus.co" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:8080/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="TV | Deportes",D| Espn EXTRA
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181370
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="D| Espn Plus | MX HQ" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Plus | MX HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10942
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181047
+#EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181016
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/181347
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10940
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155472
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="D| Eurosport" tvg-logo="http://l3d.us:8080/images/f6fac2cdd4520f026e26e7a1cac46ae8.png" group-title="TV | Deportes",D| Eurosport
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158480
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="D| Eurosport 2" tvg-logo="http://l3d.us:8080/images/9d8394510d6961a2d599e577c074452a.png" group-title="TV | Deportes",D| Eurosport 2
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158481
+#EXTINF:-1 tvg-id="" tvg-name="D| Eurosports HD" tvg-logo="" group-title="TV | Deportes",D| Eurosports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/215598
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:8080/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/200284
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:8080/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10928
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183215
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10957
+#EXTINF:-1 tvg-id="artv.cl" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183332
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202097
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10949
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX HD" tvg-logo="http://l3d.us:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10952
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://l3d.us:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10958
+#EXTINF:-1 tvg-id="artv.cl" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://l3d.us:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183334
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://l3d.us:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202100
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX" tvg-logo="http://l3d.us:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10945
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX HD" tvg-logo="http://l3d.us:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10951
+#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="D| FOX Sports Premium" tvg-logo="http://l3d.us:8080/images/e2350f28340e96c614f3badc5156fb91.png" group-title="TV | Deportes",D| FOX Sports Premium
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/195839
+#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="D| FOX Sports Premium HD" tvg-logo="http://l3d.us:8080/images/e2350f28340e96c614f3badc5156fb91.png" group-title="TV | Deportes",D| FOX Sports Premium HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10915
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/14651
+#EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="D| Fox Sports | CL" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | CL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183331
+#EXTINF:-1 tvg-id="artv.cl" tvg-name="D| Fox Sports | CL HD" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | CL HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183330
+#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="D| Fox Sports | COL" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | COL
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/183212
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | MX
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10950
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HQ" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Deportes",D| Fox Sports | MX HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155648
+#EXTINF:-1 tvg-id="" tvg-name="D| FUTV CR" tvg-logo="http://l3d.us:8080/images/853872affa0c9da5a270995af6cc5128.png" group-title="TV | Deportes",D| FUTV CR
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155246
+#EXTINF:-1 tvg-id="gol.es" tvg-name="D| Gol TV" tvg-logo="http://l3d.us:8080/images/db4a319b9623e0045396b939a0af1881.png" group-title="TV | Deportes",D| Gol TV
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158474
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| LaLigaTV HD" tvg-logo="http://l3d.us:8080/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="TV | Deportes",D| LaLigaTV HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/197233
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| Liga de Campeones" tvg-logo="http://l3d.us:8080/images/e47e77704ce7abb1b435889e546224a7.png" group-title="TV | Deportes",D| Liga de Campeones
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/157371
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| Liga de Campeones HD" tvg-logo="http://l3d.us:8080/images/e47e77704ce7abb1b435889e546224a7.png" group-title="TV | Deportes",D| Liga de Campeones HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/157372
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="D| MLB Network HD" tvg-logo="http://l3d.us:8080/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="TV | Deportes",D| MLB Network HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/210252
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="D| Movistar F1" tvg-logo="http://l3d.us:8080/images/d7860c6a5f8f674f83c723e2455c575c.png" group-title="TV | Deportes",D| Movistar F1
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/158473
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="D| Movistar F1 HD" tvg-logo="http://l3d.us:8080/images/d7860c6a5f8f674f83c723e2455c575c.png" group-title="TV | Deportes",D| Movistar F1 HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/170225
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga" tvg-logo="http://l3d.us:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="TV | Deportes",D| Movistar La Liga
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/157373
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="D| NBC Golf" tvg-logo="http://l3d.us:8080/images/15b7a9f503f5d7ca56669a81d1b70d78.png" group-title="TV | Deportes",D| NBC Golf
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10948
+#EXTINF:-1 tvg-id="" tvg-name="D| PX Sports HD" tvg-logo="http://l3d.us:8080/images/b974b5aab165d223dbd46abbca206442.png" group-title="TV | Deportes",D| PX Sports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/197422
+#EXTINF:-1 tvg-id="" tvg-name="D| SKY Sports HD" tvg-logo="http://l3d.us:8080/images/0d3aee30f6a8b2ba44814ca83c802824.png" group-title="TV | Deportes",D| SKY Sports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/115045
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv " tvg-logo="http://l3d.us:8080/images/0691e7e2ee25c84b1a2c8e706506f97f.png" group-title="TV | Deportes",D| Sportv 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185497
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 " tvg-logo="http://l3d.us:8080/images/a1357e0028f6aaffc12d7e6d1c4923ee.png" group-title="TV | Deportes",D| Sportv 2 
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185499
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 HD" tvg-logo="http://l3d.us:8080/images/a1357e0028f6aaffc12d7e6d1c4923ee.png" group-title="TV | Deportes",D| Sportv 2 HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185498
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3" tvg-logo="http://l3d.us:8080/images/99ce50c88387f32837a7bf2513032e08.png" group-title="TV | Deportes",D| Sportv 3
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185501
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3 HD" tvg-logo="http://l3d.us:8080/images/99ce50c88387f32837a7bf2513032e08.png" group-title="TV | Deportes",D| Sportv 3 HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185500
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv HD" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="TV | Deportes",D| Sportv HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/185496
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="D| Teledeporte" tvg-logo="http://l3d.us:8080/images/c08b2d93426270dd97326237e12bfbcd.png" group-title="TV | Deportes",D| Teledeporte
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10931
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Honduras (solo eventos)" tvg-logo="http://l3d.us:8080/images/87013d025dc55978a525c80e70b79d98.png" group-title="TV | Deportes",D| Tigo Honduras (solo eventos)
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/12510
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 2 BO" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports 2 BO
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155635
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 2 BO HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports 2 BO HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155629
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 3 BO" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports 3 BO
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155636
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 3 BO HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports 3 BO HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155630
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports BO" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports BO
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155633
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports BO HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports BO HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155634
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports CR" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports CR
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155627
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports HN HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports HN HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155641
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports Paraguay HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports Paraguay HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155631
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports Plus Paraguay HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports Plus Paraguay HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155632
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports Salvador" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports Salvador
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155626
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports Salvador HD" tvg-logo="http://l3d.us:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="TV | Deportes",D| Tigo Sports Salvador HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/202259
+#EXTINF:-1 tvg-id="" tvg-name="D| TNT Sports" tvg-logo="http://l3d.us:8080/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Deportes",D| TNT Sports
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155677
+#EXTINF:-1 tvg-id="" tvg-name="D| TNT Sports HD" tvg-logo="http://l3d.us:8080/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Deportes",D| TNT Sports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155247
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Toros" tvg-logo="http://l3d.us:8080/images/41c0e13df34ca0b18549b881e90ef69d.png" group-title="TV | Deportes",D| Toros
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Toros HD" tvg-logo="http://l3d.us:8080/images/41c0e13df34ca0b18549b881e90ef69d.png" group-title="TV | Deportes",D| Toros HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/126151
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN" tvg-logo="http://l3d.us:8080/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/191356
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN HQ" tvg-logo="http://l3d.us:8080/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN HQ
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/155675
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN US" tvg-logo="http://l3d.us:8080/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN US
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/194924
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN US HD" tvg-logo="http://l3d.us:8080/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN US HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/169243
+#EXTINF:-1 tvg-id="" tvg-name="D| TVC Deportes" tvg-logo="http://l3d.us:8080/images/87519fddf31f9eb903ad598396746667.png" group-title="TV | Deportes",D| TVC Deportes
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10944
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TYC Sports" tvg-logo="http://l3d.us:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="TV | Deportes",D| TYC Sports
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/25279
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TYC Sports HD" tvg-logo="http://l3d.us:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="TV | Deportes",D| TYC Sports HD
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/199511
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional" tvg-logo="http://l3d.us:8080/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="TV | Deportes",D| TyC Sports Internacional
+http://l3d.us:8080/Asprilla32/FpbTmsgvuq/10920
+
